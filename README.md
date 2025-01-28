@@ -18,8 +18,8 @@ To verify if Go is installed correctly, run:
 ### Step to Install
 
 ```bash
-  git clone <url>
-  cd dir
+  git clone https://github.com/Sudo-Sakib/Corsy.git
+  cd Corsy
   go build -o corsy corsy.go
   sudo mv corsy /usr/local/bin
 ```
